@@ -5,7 +5,7 @@ How Do I Fix ExpressVPN Login Not Working?
    :maxdepth: 2
    :caption: Contents:
 .. image:: login.jpg
-   :alt: ExpressVPN Login Not Working
+   :alt: Express VPN Login Not Working
    :width: 300px
    :align: center
    :target: https://aclogportal.com/expressvpn
