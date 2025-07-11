@@ -1,3 +1,6 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://expressvpnaccount.com">
 How Do I Fix ExpressVPN Login Not Working?
 ============================================
  
